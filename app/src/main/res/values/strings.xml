@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Name</string>
+    <string name="about">About</string>
+    <string name="your_name">Your Name</string>
+    <string name="tell_about_yourself">Tell about yourself</string>
+</resources>
